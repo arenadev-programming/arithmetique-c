@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "include/header.h"
+#include "../include/header.h"
 
 int somme(int a, int b){
     return a + b;
