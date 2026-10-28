@@ -17,7 +17,7 @@ Le code source principal se trouve dans le fichier `main.c`.
 ### Sous Windows (avec GCC / MinGW) :
 ```bash
 # Compilation
-gcc main.c src/calculateur.c -o calculateur.exe
+gcc main.c src/calculateur.c src/affichage.c -o calculateur.exe
 
 # Exécution
 ./calculateur.exe
