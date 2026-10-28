@@ -1,0 +1,12 @@
+# Exécutables et binaires
+*.exe
+*.out
+*.o
+*.obj
+
+# Fichiers de configuration de l'éditeur / IDE
+.vscode/
+.vs/
+*.suo
+*.user
+*.ncb
